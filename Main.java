@@ -20,20 +20,20 @@ public class avlWithRoot {
 
 /*******************************************************************
 
-    Main.java is part of ADSLab.
+    Main.java is part of AVL_TREE.
 
-     ADSLab is free code package: you can redistribute it    and/or modify
+     AVL_TREE is free code package: you can redistribute it    and/or modify
     it under the terms of the GNU General Public License as published     by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-   ADSLab is distributed in the hope that it will be useful,
+   AVL_TREE is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with ADSLab.  If not, see <http://www.gnu.org/licenses/>.
+    along with AVL_TREE.  If not, see <http://www.gnu.org/licenses/>.
 
 *******************************************************************
 */
